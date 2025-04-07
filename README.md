@@ -2,7 +2,7 @@
 
 Welcome to my Python Projects portfolio! As an aspiring Cybersecurity Analyst and Security Engineer, I’ve built these projects to refine my Python skills and demonstrate my ability to tackle real-world challenges. Completing the 100 Days of Python Bootcamp gave me a strong grasp of foundational topics—such as data types, control flow, OOP, and file handling—while also exposing me to advanced concepts like API consumption, GUIs with Tkinter, web scraping, and automation.
 
-In my day-to-day work as a Cyber Security Support Engineer (Vulnerability Management & SecOps), Python is a key tool for automating manual processes, and streamlining security operations. Whether I’m scripting remediation steps with PowerShell or performing threat hunts in a SIEM environment, the critical thinking and problem-solving skills honed through Python development carry over to my cybersecurity tasks. These projects highlight a similar approach, emphasizing:
+In my day-to-day work as a Cyber Security Analyst Intern (Vulnerability Management & SecOps), Python is a key tool for automating manual processes, and streamlining security operations. Whether I’m scripting remediation steps with PowerShell or performing threat hunts in a SIEM environment, the critical thinking and problem-solving skills honed through Python development carry over to my cybersecurity tasks. These projects highlight a similar approach, emphasizing:
 
 - **Core Python Foundations:** Variables, conditional logic, loops, functions, and OOP principles.
 - **Data Handling & Analysis:** Using libraries like Pandas and CSV file manipulation to process and analyze datasets—experience directly transferable to log analysis, vulnerability assessments, and incident response.
